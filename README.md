@@ -1,7 +1,5 @@
 # CDA_case2
 
-# CDA_Case1
-
 This is an Academic Project from the *02582 Computational Data Analysis* course at Denmark Technical University (DTU).
 
 ## Information about the project
